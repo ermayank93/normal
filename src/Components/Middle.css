@@ -1,0 +1,55 @@
+.mid{
+    overflow: hidden;
+    margin: 40px;
+}
+
+.mid1{
+    height: 250px;
+    margin-left: 10px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.mid2{
+    margin-top: -252px;
+    margin-left: 300px;
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.mid3{
+    margin-top: -252px;
+    margin-left: 590px;
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.mid4{
+    margin-top: -252px;
+    margin-left: 880px;
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.mid5{
+    margin-top: -252px;
+    margin-left: 1170px;
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.rate1{
+    background-color: blue;
+    width: 100px;
+    margin-left: 75px;
+    color: white;
+}

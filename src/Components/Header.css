@@ -1,0 +1,28 @@
+
+
+.head{
+    height: 100px;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+ul{
+     list-style-type: none;
+     margin-top: 40px;
+     font-size: 20px;
+}
+
+li{
+    float: left;
+    padding: 2%;
+    background-color: aqua;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+a:hover{    
+    padding: 4%;
+}
