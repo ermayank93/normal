@@ -14,7 +14,7 @@ function Middle(props) {
                 </div>
             </div>
             <div className="mid2">
-                <img src="cam1.jpg" width="200px"/>
+                <img src="cam1.jpg" width="150px"/>
                 <div>
                     Camera 2
                 </div>
